@@ -43,7 +43,7 @@ body{
 }
 
 .page1{
-    background-image: url(bulan-ramadan-warung-makan-boleh-buka-asal-ditutup-tirai-26022025-211605.jpg);
+    background-image: url(img/warung.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -140,7 +140,7 @@ img{
     font-size: 20px;
 }
 .main3{
-    background-image: url(makanan.webp);
+    background-image: url(img/makanan.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -168,4 +168,5 @@ img{
     align-items: center;
     justify-content: center;
     display: flex;
+
 }
